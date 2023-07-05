@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pixelperson6
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning mongoDB
-- 💞️ I’m looking to collaborate on android project
+- 👀 I’m interested in Android/Ios development
+- 🌱 I’m currently learning .net
+- 💞️ I’m looking to collaborate on Flutter project
 - 📫 How to reach me pixelperson@gmail.com
 
 <!---
